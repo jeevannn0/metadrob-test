@@ -19,21 +19,21 @@
 
 ## project structure:
 
-my-threejs-react-tailwind-project/
-├── public/
-│   ├── index.html
-│   └── ... (other public assets)
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   ├── CanvasComponent.js
-│   ├── Controls.js
-│   ├── index.css
-│   └── ...
-├── .gitignore
-├── package.json
-├── tailwind.config.js
-└── README.md
+my-threejs-react-tailwind-project/</br>
+├── public/</br>
+│   ├── index.html</br>
+│   └── ... (other public assets)</br>
+├── src/</br>
+│   ├── App.js</br>
+│   ├── index.js</br>
+│   ├── CanvasComponent.js</br>
+│   ├── Controls.js</br>
+│   ├── index.css</br>
+│   └── ...</br>
+├── .gitignore</br>
+├── package.json</br>
+├── tailwind.config.js</br>
+└── README.md</br>
 
 
 ## Approach Of The Project:

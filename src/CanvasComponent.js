@@ -34,7 +34,7 @@ const CanvasComponent = ({
       
       <ambientLight intensity={0.5} />
       <directionalLight
-        position={[0, 10, 0]}
+        position={[10, 10, 10]}
         intensity={1}
         castShadow
         shadow-mapSize-width={1024}
@@ -52,7 +52,7 @@ const CanvasComponent = ({
         </Box>
       </RotatingObject>
       <RotatingObject speed={donutSpeed} visible={donutVisible} position={[0, 0, -2]} >
-        <Torus args={[1, 0.4, 16, 100]} scale={objectScale}>
+        <Torus  scale={objectScale}>
           <meshStandardMaterial attach="material" color="white" />
         </Torus>
       </RotatingObject>

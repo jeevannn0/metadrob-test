@@ -15,8 +15,9 @@ const Controls = ({
   setConeVisible
 }) => {
   return (
-    <div className="p-4 bg-gray-200 flex justify-center items-center space-x-4">
-      <div className="flex flex-col items-center">
+    
+    <div className="p-4 bg-gray-900 flex justify-center items-center space-x-4 ">
+      <div className="flex flex-col items-center ">
         <button
           className="mb-2 p-2 bg-blue-400 text-white rounded"
           onClick={() => setCubeVisible(!cubeVisible)}
@@ -91,6 +92,7 @@ const Controls = ({
         />
       </div>
     </div>
+   
   );
 };
 

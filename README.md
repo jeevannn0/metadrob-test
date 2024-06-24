@@ -1,17 +1,46 @@
-Programming Languages: 
+## [                                              Vercel.](https://metadrob-test.vercel.app/)
+
+
+## Programming Languages: 
 - JavaScript 
 - JSX 
 
-Frameworks/Libraries:
+## Frameworks/Libraries:
 - React
 - Three.js
 
-IDE/Text Editor:
+## IDE/Text Editor:
 - VS Code
 
-Other Tools:
+## Other Tools:
 - @react-three/fiber
 - @react-three/drei
+
+
+## project structure:
+
+my-threejs-react-tailwind-project/
+├── public/
+│   ├── index.html
+│   └── ... (other public assets)
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── CanvasComponent.js
+│   ├── Controls.js
+│   ├── index.css
+│   └── ...
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+
+## Approach Of The Project:
+
+The approach in simple words is like i mad 2 files in the src folder those are canvascomponents and another one is controls .To get the 3d odels i used the threejs lib dri(@react-three/drei) to get those models and add the spices like shadow rotation etc.. as you said in the task. And in the conrols file i create the toggle button to show and hide the models and slide bar to set the roatation speed for the objects. yeah i think thats it And i ahve use threejs for little style up the components.
+
+
 
 # Getting Started with Create React App
 

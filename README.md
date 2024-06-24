@@ -38,7 +38,7 @@ my-threejs-react-tailwind-project/</br>
 
 ## Approach Of The Project:
 
-The approach in simple words is like i mad 2 files in the src folder those are canvascomponents and another one is controls .To get the 3d odels i used the threejs lib dri(@react-three/drei) to get those models and add the spices like shadow rotation etc.. as you said in the task. And in the conrols file i create the toggle button to show and hide the models and slide bar to set the roatation speed for the objects. yeah i think thats it And i ahve use threejs for little style up the components.
+The approach in simple words is like i made 2 files in the src folder those are canvascomponents and another one is controls .To get the 3d objects i have used the threejs lib dri(@react-three/drei) to get those models and add the spices like shadow rotation etc.. as you said in the task. And in the controls file i create the toggle button to show and hide the models and slide bar to set the rotation speed for the objects. yeah i think that's it And i have use threejs for little style up the components.
 
 
 
